@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/CurriculumZamora/static/css/main.fbc00891.css",
-    "main.js": "/CurriculumZamora/static/js/main.31e1c6fb.js",
+    "main.js": "/CurriculumZamora/static/js/main.f19e2994.js",
     "index.html": "/CurriculumZamora/index.html"
   },
   "entrypoints": [
     "static/css/main.fbc00891.css",
-    "static/js/main.31e1c6fb.js"
+    "static/js/main.f19e2994.js"
   ]
 }
