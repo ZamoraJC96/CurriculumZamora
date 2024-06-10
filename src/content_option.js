@@ -44,19 +44,19 @@ const worktimeline = [
 const skills = [
     {
         name: "Java",
-        value: 60,
+        value: 55,
     },
     {
         name: "C#",
-        value: 70,
+        value: 60,
     },
     {
         name: "JavaScript",
-        value: 90,
+        value: 70,
     },
     {
         name: "TypeScript",
-        value: 75,
+        value: 55,
     },
     {
         name: "COBOL",
@@ -64,15 +64,15 @@ const skills = [
     },
     {
         name: "Node.js",
-        value: 85,
+        value: 75,
     },
     {
         name: "React",
-        value: 80,
+        value: 70,
     },
     {
         name: "Angular",
-        value: 70,
+        value: 60,
     },
 ];
 
